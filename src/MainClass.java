@@ -1,3 +1,4 @@
+import currency.Bitcoin;
 import currency.Dollar;
 import currency.Euro;
 import currency.UzDollar;
@@ -152,5 +153,10 @@ public class MainClass {
         workWithList.addNewList(ourList);
         workWithList.addValueToListList(2,"test21", ourList);
         workWithList.addValueToListList(1,"test13", ourList);
+
+        Bitcoin bitcoin = new Bitcoin(1000000);
+        bitcoin.convertGrnToCurrency(10);
+        bitcoin.convertCurrencyToGrn(10);
+
     }
 }

@@ -1,2 +1,14 @@
 2018-18-10 20:43:45  INFO [MainClass.class] : Info text
 2018-18-10 20:43:45  ERROR [MainClass.class] : Error text
+2018-19-10 11:55:15  INFO [MainClass.class] : Info text
+2018-19-10 11:55:15  ERROR [MainClass.class] : Error text
+2018-19-10 12:09:58  INFO [MainClass.class] : Info text
+2018-19-10 12:09:58  ERROR [MainClass.class] : Error text
+2018-19-10 12:21:44  INFO [MainClass.class] : Info text
+2018-19-10 12:21:44  ERROR [MainClass.class] : Error text
+2018-19-10 12:23:17  INFO [MainClass.class] : Info text
+2018-19-10 12:23:17  ERROR [MainClass.class] : Error text
+2018-19-10 12:24:16  INFO [MainClass.class] : Info text
+2018-19-10 12:24:16  ERROR [MainClass.class] : Error text
+2018-19-10 12:24:43  INFO [MainClass.class] : Info text
+2018-19-10 12:24:43  ERROR [MainClass.class] : Error text
